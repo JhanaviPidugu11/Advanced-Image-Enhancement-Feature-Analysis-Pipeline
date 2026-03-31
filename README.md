@@ -176,7 +176,6 @@ Steps:
 
 The pipeline generates a **3×3 comparison grid**:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML
 `   [Original]     [Preprocessed]     [CLAHE]  
     [Sharpened]    [Harris]           [ORB]  
     [Canny]        [Histogram]   `
